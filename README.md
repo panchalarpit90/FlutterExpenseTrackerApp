@@ -8,9 +8,9 @@ This project is a Flutter-based expense tracker app that allows you to log and c
 
 
 Key Features:
-✅ Addand delete expenses easily
-✅ Categorize expenses (Work, Travel, Food, etc.)
-✅ View spending insights with a dynamic chart
-✅ Track expenses over time for better financial management
+✅ Addand delete expenses easily<br>
+✅ Categorize expenses (Work, Travel, Food, etc.)<br>
+✅ View spending insights with a dynamic chart<br>
+✅ Track expenses over time for better financial management<br>
 
 At the heart of the app is a chart-based visualization, making it easier to understand where your money is going. Whether you want to budget effectively or simply keep track of your spending, this app is the perfect tool to stay financially organized!
